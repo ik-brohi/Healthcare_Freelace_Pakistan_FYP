@@ -1,4 +1,4 @@
-# ![Healthcare Banner](https://www.canva.com/design/DAFs6RSQFFc/Y9rg9jAXWHOHriZQlqAjDQ/view?utm_content=DAFs6RSQFFc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+# ![Healthcare Banner](https://s3-alpha.figma.com/hub/file/4069912755/0b8b25d5-a492-4c37-a2d9-c8daaaec51df-cover.png)
 
 Welcome to Healthcare Freelance Pakistan: Transforming Healthcare through Innovation! 🏥🚀
 
