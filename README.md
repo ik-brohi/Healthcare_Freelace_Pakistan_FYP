@@ -1,8 +1,4 @@
-
-
-```markdown
-# ![Healthcare Banner](https://ibb.co/BG8drJZ)
-
+# ![Healthcare Banner](https://i.ibb.co/PMB39yh/healthcare-freelance-Pakistan.png)
 
 Welcome to Healthcare Freelance Pakistan: Transforming Healthcare through Innovation! 🏥🚀
 
@@ -38,6 +34,3 @@ Have questions or ideas? Reach out to us at [ik02161@gmail.com](mailto:ik02161@g
 ## License
 
 This project operates under the [Sukkur IBA University](LICENSE), promoting openness and collaboration.
-```
-
-Please make sure the link remains accessible and doesn't have any restrictions that might prevent it from displaying properly.
