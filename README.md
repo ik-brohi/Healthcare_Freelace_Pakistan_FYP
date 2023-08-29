@@ -1,7 +1,7 @@
 
 
 ```markdown
-# ![Healthcare Banner](https://drive.google.com/uc?export=view&id=1TU3u7GgWHFWlZZhtHy00BlM2SKWBDd0t)
+# ![Healthcare Banner](https://ibb.co/BG8drJZ)
 
 
 Welcome to Healthcare Freelance Pakistan: Transforming Healthcare through Innovation! 🏥🚀
