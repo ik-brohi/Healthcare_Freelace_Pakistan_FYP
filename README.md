@@ -1,7 +1,8 @@
-Absolutely, I've updated the README with the corrected banner link. Now your README should display the banner image properly:
+
 
 ```markdown
-# ![Healthcare Banner](https://s3-alpha.figma.com/hub/file/4069912755/0b8b25d5-a492-4c37-a2d9-c8daaaec51df-cover.png)
+# ![Healthcare Banner](https://drive.google.com/uc?export=view&id=1TU3u7GgWHFWlZZhtHy00BlM2SKWBDd0t)
+
 
 Welcome to Healthcare Freelance Pakistan: Transforming Healthcare through Innovation! 🏥🚀
 
